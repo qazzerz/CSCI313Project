@@ -4,6 +4,6 @@ import { Injectable } from '@angular/core';
   providedIn: 'root'
 })
 export class ShoppingCartService {
-
+  x: number = 0;
   constructor() { }
 }
