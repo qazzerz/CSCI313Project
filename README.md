@@ -1,3 +1,3 @@
 # CSCI313Project
 
-npm i ng serve
+npm -i ng serve
